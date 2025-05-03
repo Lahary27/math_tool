@@ -11,6 +11,7 @@ The Smart Math Tool is a comprehensive Python application that provides a range 
 Features:
 - User-friendly menu-driven interface
 - Robust error handling
-- Utilizes SymPy for equation solving and scikit-learn for AI operation prediction
+- Utilizes SymPy for equation solving and scikit-learn for AI operation prediction.
+
 Purpose:
 The Smart Math Tool is designed to assist students, educators, and professionals with various mathematical tasks, providing an efficient and accurate way to perform calculations and solve problems.
