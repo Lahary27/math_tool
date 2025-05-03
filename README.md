@@ -8,6 +8,7 @@ The Smart Math Tool is a comprehensive Python application that provides a range 
 5. Area Calculator: Calculates the area of different shapes like circles, rectangles, and triangles.
 6. AI Operation Predictor: Predicts the mathematical operation based on a given sentence using a trained model.
 7. Pattern Generator: Generates a Fibonacci sequence.
+
 Features:
 - User-friendly menu-driven interface
 - Robust error handling
